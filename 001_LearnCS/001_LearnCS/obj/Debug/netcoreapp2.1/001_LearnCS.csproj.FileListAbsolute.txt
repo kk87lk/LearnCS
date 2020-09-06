@@ -1,0 +1,11 @@
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\bin\Debug\netcoreapp2.1\001_LearnCS.deps.json
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\bin\Debug\netcoreapp2.1\001_LearnCS.runtimeconfig.json
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\bin\Debug\netcoreapp2.1\001_LearnCS.runtimeconfig.dev.json
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\bin\Debug\netcoreapp2.1\001_LearnCS.dll
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\bin\Debug\netcoreapp2.1\001_LearnCS.pdb
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\obj\Debug\netcoreapp2.1\001_LearnCS.csprojAssemblyReference.cache
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\obj\Debug\netcoreapp2.1\001_LearnCS.csproj.CoreCompileInputs.cache
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\obj\Debug\netcoreapp2.1\001_LearnCS.AssemblyInfoInputs.cache
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\obj\Debug\netcoreapp2.1\001_LearnCS.AssemblyInfo.cs
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\obj\Debug\netcoreapp2.1\001_LearnCS.dll
+D:\C-programme\C#\LearnCS\001_LearnCS\001_LearnCS\obj\Debug\netcoreapp2.1\001_LearnCS.pdb
