@@ -6,7 +6,12 @@ namespace _002_LearnCS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            string str = "234234";
+            int i = Convert.ToInt32("123");
+            float f = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine(f);
+            char[] charArray = new char[2] { 'a', 'b' };
         }
     }
 }
